@@ -97,14 +97,6 @@ Frequent presenter at national and international conferences including **Canadia
 
 ---
 
-## 🎀 Visual & styling tips (for a beautiful, feminine aesthetic)
-
-* Use soft pastel badge themes (e.g., `?style=for-the-badge&color=F6C6EA` where supported).
-* Add a tasteful profile banner image (soft gradients, subtle map or data texture).
-* Use SVG icons and a simple two‑column layout for skills vs. contact info.
-
----
-
 *If you want, I can:*
 
 * generate a polished `README.md` file with this content (ready to paste into the profile repo),
@@ -113,4 +105,3 @@ Frequent presenter at national and international conferences including **Canadia
 
 ---
 
-*Last updated:* 2025-11-05
