@@ -1,4 +1,8 @@
 # Hi, I'm Ayshan Mammadzada  
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" alt="Animated Data Waves Background" />
+</div>
+
 ![Header Image](https://img.shields.io/badge/-Data%20Driven%20Policy%20Strategist-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyUzYuNDggMjIgMTIgMjIgMjIgMTcuNTIgMjIgMTJzLTYuNDgtMTAtMTItMTB6IiBmaWxsPSIjRkZGRkZGIi8+CjxwYXRoIGQ9Ik0xMiA0QzE0LjIwOSA0IDE2IDUuNzkxIDMgMTctMyAxOS4yMDkgMyAyMSAxMiAyMXoiIGZpbGw9IiNGRjZCNkIiLz4KPC9zdmc+&logoColor=white)  
 
 <div align="center">
@@ -8,6 +12,10 @@
 ---
 
 ## 🌟 About Me  
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="300" height="200" alt="Animated Globe for Global Challenges" />
+</div>
+
 PMP-certified and MIT-trained program & policy strategist with 12+ years of experience in data-driven decision-making. Passionate about leveraging Python, ML, and GIS to tackle global challenges in migration, sustainable development, and collective impact. Based in Ottawa, Canada—where policy meets innovation.  
 
 - 🔭 Currently: Leading research on neighborhood data tools at Ottawa Neighbourhood Scientific Research Solutions.  
@@ -26,6 +34,10 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
 ---
 
 ## 🛠️ Core Competencies  
+<div align="center">
+  <img src="https://media.giphy.com/media/26ufnwz3wDUllH3k0/giphy.gif" width="200" height="150" alt="Animated Gears for Competencies" style="float: left; margin-right: 20px;" />
+</div>
+
 <div align="center">
   <table>
     <tr>
@@ -60,6 +72,10 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
 ---
 
 ## 🔥 Selected Highlights  
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btMrDbVmdZ2wCjK/giphy.gif" width="400" height="200" alt="Animated Fireworks for Highlights" />
+</div>
+
 <div align="center">
   <table>
     <tr>
@@ -99,6 +115,10 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
 
 ## 🎓 Education  
 <div align="center">
+  <img src="https://media.giphy.com/media/26BRv0FvbqUjQhOa0/giphy.gif" width="250" height="150" alt="Animated Graduation Cap" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/-MSc%20Geography%20(3.8/4.0)-FF6B6B?style=flat&logo=university&logoColor=white" />
   <img src="https://img.shields.io/badge/-MIT%20MicroMasters%20Statistics%20&%20Data%20Science%20(Honors)-4ECDC4?style=flat&logo=mit&logoColor=white" />
   <img src="https://img.shields.io/badge/-MSc%20&%20BSc%20Geography%20/%20Applied%20Ecology%20(Summa%20Cum%20Laude)-45B7D1?style=flat&logo=university&logoColor=white" />
@@ -112,6 +132,10 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
 
 ## 🏆 Certifications & Awards  
 <div align="center">
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200" height="200" alt="Animated Trophy Spin" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/-PMP%20(PMI)%20-%20Jul%202023-FF6B6B?style=flat&logo=project-management&logoColor=white" />
   <img src="https://img.shields.io/badge/-MIT%20MicroMasters%20(Honors)-4ECDC4?style=flat&logo=mit&logoColor=white" />
   <img src="https://img.shields.io/badge/-Salesforce%20Certified%20Admin%2C%20App%20Builder%2C%20Platform%20Dev%20I-45B7D1?style=flat&logo=salesforce&logoColor=white" />
@@ -122,6 +146,10 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
 ---
 
 ## 📞 Connect with Me  
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150" height="150" alt="Animated Connect Hands" style="float: right; margin-left: 20px;" />
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ayshanmammadzada/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -141,6 +169,10 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
 
 ## 📊 GitHub Stats  
 <div align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8J8Z7u0Z7qU/giphy.gif" width="100%" height="200" alt="Animated Code Flow Background" />
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ayshan-M&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Ayshan-M GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayshan-M&langs_count=12&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages" />
 </div>
@@ -158,6 +190,10 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
 ---
 
 ## 💻 Featured Repositories  
+<div align="center">
+  <img src="https://media.giphy.com/media/5RIAJ9h1J5V5K/giphy.gif" width="300" height="150" alt="Animated Repo Cards" />
+</div>
+
 <div align="center">
   <table>
     <tr>
@@ -195,4 +231,4 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
   <i>Let's collaborate on data for good! 🌍</i>
 </div>
 
-<!-- Note: Switched to a vibrant palette with coral (#FF6B6B), teal (#4ECDC4), sky blue (#45B7D1), mint (#96CEB4), and soft yellow (#FFEAA7) for badges and accents. Updated stats/activity to 'chartreuse-dark' theme for a bold, lime-infused vibrancy that pops without overwhelming. Custom colors in activity graph for energy. Copy-paste into README.md to light it up! -->
+<!-- Note: Added vibrant animated GIFs from Giphy as section "backgrounds" (full-width or accents) for dynamic flair—data waves for header, globe for about, gears for skills, fireworks for highlights, grad cap for education, trophy for certs, code flow for stats, and repo cards for projects. They loop smoothly without overwhelming load times. Keeps the coral-teal-sky palette pulsing with energy. Paste into README.md and watch it come alive! If you have custom GIFs, swap the URLs. -->
