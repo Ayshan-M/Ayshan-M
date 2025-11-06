@@ -1,8 +1,8 @@
 # Hi, I'm Ayshan Mammadzada  
-![Header Image](https://img.shields.io/badge/-Data%20Driven%20Policy%20Strategist-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyUzYuNDggMjIgMTIgMjIgMjIgMTcuNTIgMjIgMTJzLTYuNDgtMTAtMTItMTB6IiBmaWxsPSIjRkZGRkZGIi8+CjxwYXRoIGQ9Ik0xMiA0QzE0LjIwOSA0IDE2IDUuNzkxIDMgMTctMyAxOS4yMDkgMyAyMSAxMiAyMXoiIGZpbGw9IiMwMDc3QjUiLz4KPC9zdmc+&logoColor=white)  
+![Header Image](https://img.shields.io/badge/-Data%20Driven%20Policy%20Strategist-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyUzYuNDggMjIgMTIgMjIgMjIgMTcuNTIgMjIgMTJzLTYuNDgtMTAtMTItMTB6IiBmaWxsPSIjRkZGRkZGIi8+CjxwYXRoIGQ9Ik0xMiA0QzE0LjIwOSA0IDE2IDUuNzkxIDMgMTctMyAxOS4yMDkgMyAyMSAxMiAyMXoiIGZpbGw9IiNGRjZCNkIiLz4KPC9zdmc+&logoColor=white)  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=PMP-Certified+Policy+Strategist;MIT-Trained+Data+Scientist;Multilingual+Leader;Building+Sustainable+Futures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=PMP-Certified+Policy+Strategist;MIT-Trained+Data+Scientist;Multilingual+Leader;Building+Sustainable+Futures" alt="Typing SVG" />
 </div>
 
 ---
@@ -16,11 +16,11 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
 - ⚡ Fun fact: I've mapped migration patterns across continents using QGIS—turning data into stories!  
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-English%20(Native)-0077B5?style=flat&logo=language&logoColor=white" />
-  <img src="https://img.shields.io/badge/-French%20(Advanced)-0077B5?style=flat&logo=language&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azerbaijani%20(Native)-0077B5?style=flat&logo=language&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Russian%20(Advanced)-0077B5?style=flat&logo=language&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Turkish%20(Intermediate)-0077B5?style=flat&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/-English%20(Native)-FF6B6B?style=flat&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/-French%20(Advanced)-4ECDC4?style=flat&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azerbaijani%20(Native)-45B7D1?style=flat&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Russian%20(Advanced)-96CEB4?style=flat&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Turkish%20(Intermediate)-FFEAA7?style=flat&logo=language&logoColor=white" />
 </div>
 
 ---
@@ -99,9 +99,9 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
 
 ## 🎓 Education  
 <div align="center">
-  <img src="https://img.shields.io/badge/-MSc%20Geography%20(3.8/4.0)-0077B5?style=flat&logo=university&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MIT%20MicroMasters%20Statistics%20&%20Data%20Science%20(Honors)-0077B5?style=flat&logo=mit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MSc%20&%20BSc%20Geography%20/%20Applied%20Ecology%20(Summa%20Cum%20Laude)-0077B5?style=flat&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MSc%20Geography%20(3.8/4.0)-FF6B6B?style=flat&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MIT%20MicroMasters%20Statistics%20&%20Data%20Science%20(Honors)-4ECDC4?style=flat&logo=mit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MSc%20&%20BSc%20Geography%20/%20Applied%20Ecology%20(Summa%20Cum%20Laude)-45B7D1?style=flat&logo=university&logoColor=white" />
 </div>
 
 - **MSc, Geography** — University of Ottawa (2025), CGPA 3.8/4.0  
@@ -112,11 +112,11 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
 
 ## 🏆 Certifications & Awards  
 <div align="center">
-  <img src="https://img.shields.io/badge/-PMP%20(PMI)%20-%20Jul%202023-0077B5?style=flat&logo=project-management&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MIT%20MicroMasters%20(Honors)-0077B5?style=flat&logo=mit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Salesforce%20Certified%20Admin%2C%20App%20Builder%2C%20Platform%20Dev%20I-0077B5?style=flat&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ESRI%20GIS%20(ArcGIS%20Pro%20&%20Fundamentals)-0077B5?style=flat&logo=gis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Awards%3A%20Pathways%20to%20Prosperity%2C%20CAG%2C%20Metropolis-0077B5?style=flat&logo=trophy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PMP%20(PMI)%20-%20Jul%202023-FF6B6B?style=flat&logo=project-management&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MIT%20MicroMasters%20(Honors)-4ECDC4?style=flat&logo=mit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Salesforce%20Certified%20Admin%2C%20App%20Builder%2C%20Platform%20Dev%20I-45B7D1?style=flat&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ESRI%20GIS%20(ArcGIS%20Pro%20&%20Fundamentals)-96CEB4?style=flat&logo=gis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Awards%3A%20Pathways%20to%20Prosperity%2C%20CAG%2C%20Metropolis-FFEAA7?style=flat&logo=trophy&logoColor=white" />
 </div>
 
 ---
@@ -124,13 +124,13 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
 ## 📞 Connect with Me  
 <div align="center">
   <a href="https://www.linkedin.com/in/ayshanmammadzada/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:amamm044@uottawa.ca">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://bold.pro/my/ayshanmammadzada/617r" target="_blank">
-    <img src="https://img.shields.io/badge/-Bold%20Profile-3B5998?style=for-the-badge&logo=portfolio&logoColor=white" alt="Bold Profile" />
+    <img src="https://img.shields.io/badge/-Bold%20Profile-4ECDC4?style=for-the-badge&logo=portfolio&logoColor=white" alt="Bold Profile" />
   </a>
   <a href="https://twitter.com/ayshanmammad" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
@@ -141,18 +141,18 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ayshan-M&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Ayshan-M GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayshan-M&langs_count=12&layout=compact&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ayshan-M&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Ayshan-M GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayshan-M&langs_count=12&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayshan-M&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Ayshan-M Activity Graph" />
+  <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayshan-M&bg_color=0d1117&color=ff6b6b&line=4ecdc4&point=ffeaa7&area=true&hide_border=true" alt="Ayshan-M Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayshan-M&show_icons=true&locale=en&layout=demo&theme=radical&hide_border=true" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayshan-M&theme=radical&no-frame=1&column=4" alt="Trophy" />
-  <img src="https://komarev.com/ghpvc/?username=Ayshan-M&style=for-the-badge&color=0077b5" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayshan-M&show_icons=true&locale=en&layout=demo&theme=chartreuse-dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayshan-M&theme=chartreuse-dark&no-frame=1&column=4" alt="Trophy" />
+  <img src="https://komarev.com/ghpvc/?username=Ayshan-M&style=for-the-badge&color=FF6B6B" alt="Profile Views" />
 </div>
 
 ---
@@ -163,24 +163,24 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
     <tr>
       <td align="center">
         <a href="https://github.com/Ayshan-M/ottawa-immigration-strategy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayshan-M&repo=ottawa-immigration-strategy&theme=radical" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayshan-M&repo=ottawa-immigration-strategy&theme=chartreuse-dark" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Ayshan-M/data-harmonization-toolkit">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayshan-M&repo=data-harmonization-toolkit&theme=radical" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayshan-M&repo=data-harmonization-toolkit&theme=chartreuse-dark" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/Ayshan-M/gis-migration-maps">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayshan-M&repo=gis-migration-maps&theme=radical" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayshan-M&repo=gis-migration-maps&theme=chartreuse-dark" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Ayshan-M/salesforce-policy-automation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayshan-M&repo=salesforce-policy-automation&theme=radical" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayshan-M&repo=salesforce-policy-automation&theme=chartreuse-dark" />
         </a>
       </td>
     </tr>
@@ -190,9 +190,9 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Made%20with%20%3Co/%3E%20&%20%3CTwitter%3E%20Emoji-0077B5?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Made%20with%20%3Co/%3E%20&%20%3CTwitter%3E%20Emoji-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
   <br><br>
   <i>Let's collaborate on data for good! 🌍</i>
 </div>
 
-<!-- Note: Replace placeholder repo links with your actual pinned repos. The 'radical' theme provides a blue-green color grading for a modern, sustainable vibe. Icons via emoji and shields for visual pop. Copy-paste this into your README.md for instant upgrade! -->
+<!-- Note: Switched to a vibrant palette with coral (#FF6B6B), teal (#4ECDC4), sky blue (#45B7D1), mint (#96CEB4), and soft yellow (#FFEAA7) for badges and accents. Updated stats/activity to 'chartreuse-dark' theme for a bold, lime-infused vibrancy that pops without overwhelming. Custom colors in activity graph for energy. Copy-paste into README.md to light it up! -->
