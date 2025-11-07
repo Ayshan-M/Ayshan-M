@@ -129,11 +129,11 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
   <a href="mailto:amamm044@uottawa.ca">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://bold.pro/my/ayshanmammadzada/617r" target="_blank">
+  <a href="https://bold.pro/my/ayshanmammadzada/" target="_blank">
     <img src="https://img.shields.io/badge/-Bold%20Profile-3B5998?style=for-the-badge&logo=portfolio&logoColor=white" alt="Bold Profile" />
   </a>
-  <a href="https://twitter.com/ayshanmammad" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/AyshanMamadzada" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
   </a>
 </div>
 
