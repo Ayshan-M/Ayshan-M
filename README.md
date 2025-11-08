@@ -126,7 +126,7 @@ PMP-certified and MIT-trained program & policy strategist with 12+ years of expe
   <a href="https://www.linkedin.com/in/ayshanmammadzada/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:amamm044@uottawa.ca">
+  <a href="mailto:ayshan.mammadzada@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://bold.pro/my/ayshanmammadzada/" target="_blank">
